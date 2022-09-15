@@ -1,23 +1,25 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+__pycache__
+
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+fastapireact/node_modules
+fastapireact/.pnp
+fastapireact/.pnp.js
 
 # testing
-/coverage
+fastapireact/coverage
 
 # production
-/build
+fastapireact/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+fastapireact/.DS_Store
+fastapireact/.env.local
+fastapireact/.env.development.local
+fastapireact/.env.test.local
+fastapireact/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+fastapireact/npm-debug.log*
+fastapireact/yarn-debug.log*
+fastapireact/yarn-error.log*

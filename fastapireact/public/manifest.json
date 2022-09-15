@@ -1,0 +1,8 @@
+{
+  "short_name": "React-FastAPI",
+  "name": "App to demonstrate React and FastAPI integration",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
